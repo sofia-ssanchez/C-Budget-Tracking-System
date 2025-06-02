@@ -1,0 +1,31 @@
+120|2025-05-16|income|Active|Freelance Work|1200.00
+121|2025-05-16|expense|Wants|Streaming Subscription|150.00
+122|2025-05-17|expense|Needs|Rent|1200.00
+123|2025-05-18|income|Passive|Stock Dividends|310.00
+124|2025-05-18|expense|Wants|Coffee|45.00
+125|2025-05-19|expense|Needs|Groceries|90.00
+126|2025-05-19|income|Active|Freelance Work|200.00
+127|2025-05-20|expense|Wants|Streaming Subscription|25.00
+128|2025-05-21|expense|Needs|Rent|300.00
+129|2025-05-21|income|Passive|Stock Dividends|20.00
+130|2025-05-22|expense|Wants|Coffee|60.00
+131|2025-05-22|income|Active|Part-Time Job|950.00
+132|2025-05-23|expense|Needs|Groceries|35.00
+133|2025-05-23|expense|Wants|Streaming Subscription|80.00
+134|2025-05-24|income|Passive|Stock Dividends|15.00
+135|2025-05-25|income|Active|Freelance Work|430.00
+136|2025-05-25|expense|Wants|Coffee|40.00
+137|2025-05-26|expense|Needs|Groceries|220.00
+138|2025-05-26|expense|Wants|Streaming Subscription|95.00
+139|2025-05-27|income|Passive|Stock Dividends|275.00
+140|2025-05-28|expense|Needs|Rent|400.00
+141|2025-05-29|expense|Wants|Coffee|60.00
+142|2025-05-29|income|Active|Part-Time Job|380.00
+143|2025-05-30|expense|Needs|Groceries|30.00
+144|2025-05-30|income|Passive|Stock Dividends|125.00
+145|2025-05-31|expense|Wants|Streaming Subscription|85.00
+146|2025-05-31|expense|Needs|Rent|20.00
+147|2025-06-01|income|Active|Part-Time Job|500.00
+148|2025-06-01|income|Passive|Stock Dividends|950.00
+149|2025-06-02|expense|Wants|Coffee|300.00
+150|2025-06-02|expense|Needs|Groceries|275.00
